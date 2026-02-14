@@ -125,30 +125,25 @@ Develop structured Python programming skills
 
 Demonstrate smart computational problem-solving
 
-Educational Value
+---
+
+## Educational Value
 This project strengthens understanding of:
+1. Algorithm design
+2. Time and space complexity
+3. Recursion
+4. Performance optimization
+5. Practical software design
 
-Algorithm design
+---
 
-Time and space complexity
-
-Recursion
-
-Performance optimization
-
-Practical software design
-
-Conclusion
+## Conclusion
 The Smart Sorting System successfully demonstrates the implementation and comparison of two advanced sorting algorithms. Quick Sort was selected as the primary algorithm due to its practical speed and efficiency, while Merge Sort was implemented to analyze guaranteed performance and stability.
 
 This project enhanced understanding of:
-
-Recursion
-
-Divide-and-conquer techniques
-
-Time complexity analysis
-
-Performance measurement in Python
+1. Recursion
+2. Divide-and-conquer techniques
+3. Time complexity analysis
+4. Performance measurement in Python
 
 The system achieves its goal of providing an intelligent and comparative sorting solution.
